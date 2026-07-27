@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme { --color-crimson: #DC2626; --color-navy: #0F172A; --color-emerald: #10B981; --color-amber: #F59E0B; --color-rose: #E11D48; }
+* { box-sizing: border-box; }
+body { margin: 0; background: radial-gradient(at 0% 0%,rgb(220 38 38 / .05),transparent 50%),radial-gradient(at 100% 100%,rgb(16 185 129 / .05),transparent 50%),#f8fafc; color:#0f172a; }
